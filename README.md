@@ -13,9 +13,9 @@ A Python application that evaluates a student's final academic standing based on
 
 ## How to Run the Python Script
 
-1. Make sure you have Python 3 installed
-2. Make sure grades.csv is in the same directory
-3. Run the following command:
+1. I make sure you have Python 3 installed
+2. I make sure grades.csv is in the same directory
+3. I run the following command:
 
 python3 grade-evaluator.py
 
@@ -33,7 +33,7 @@ grades.csv
 
 ## How to Run the Shell Script
 
-1. Make sure organizer.sh is executable by running:
+1. I make sure organizer.sh is executable by running:
 chmod +x organizer.sh
 2. Run the following command:
 
